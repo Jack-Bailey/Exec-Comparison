@@ -6,11 +6,11 @@ Comparison of several different Roblox Executors
 
 Performance of each Scripting Environment, aswell as the features it contains
 
-| Name                                     | [SimpleBench](https://github.com/AstolfoBrew/SimpleBench) Score                            | Function Count                                               | UNC          |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
-| [Script-Ware](https://script-ware.com/w) | [708.9573803463508](https://yieldingexploiter.github.io/Exec-Comparison/score#script-ware) | [180+](https://docs.script-ware.com/script-execution-engine) | ✅ (full)    |
-| [Fluxus](https://fluxteam.xyz/)          | [636.4562053459221](https://yieldingexploiter.github.io/Exec-Comparison/score#fluxus)      | No Documentation (not counting env manually lol)             | ✅ (partial) |
-| Synapse (too overated to get linked)     | [266.2899230358634](https://yieldingexploiter.github.io/Exec-Comparison/score#shitnapse)   | <135 (manually counted in docs)                              | ❌           |
+| Name                                     | [SimpleBench](https://github.com/AstolfoBrew/SimpleBench) Score          | Function Count                                               | UNC          |
+| ---------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [Script-Ware](https://script-ware.com/w) | [708.9573803463508](https://compexec.astolfo.gay/score.html#script-ware) | [180+](https://docs.script-ware.com/script-execution-engine) | ✅ (full)    |
+| [Fluxus](https://fluxteam.xyz/)          | [636.4562053459221](https://compexec.astolfo.gay/score.html#fluxus)      | No Documentation (not counting env manually lol)             | ✅ (partial) |
+| Synapse (too overated to get linked)     | [266.2899230358634](https://compexec.astolfo.gay/score.html#shitnapse)   | <135 (manually counted in docs)                              | ❌           |
 
 ### Stability
 
