@@ -36,3 +36,15 @@ I lost the benchmarks I did between SW and Synapse on Attach & Launch time, but 
 | [Script-Ware](https://script-ware.com/w) | <2 (almost always; sometimes a tiny bit more)                        |
 | [Fluxus](https://fluxteam.xyz/)          | >12 (in my experience)                                               |
 | Synapse                                  | ~12 (unless you're really lucky, it's gonna be aprox 12)             |
+
+### Price
+
+| Executor                                 | Price (Lower = Better)         | Payment Methods (More = Better)                          |
+| ---------------------------------------- | ------------------------------ | -------------------------------------------------------- |
+| [Script-Ware](https://script-ware.com/w) | $20.00                         | Stripe (Card), Paypal, amazon.co.uk, PaySafeCard, Crypto |
+| [Fluxus](https://fluxteam.xyz/)          | $10.00 (or $0 with key system) | US/UK Giftcard, Paypal, Crypto                           |
+| Synapse                                  | $20.00                         | Paypal, Crypto                                           |
+
+### Conclusion
+
+Script-Ware beats Synapse everywhere, and beats Fluxus everywhere except price.
