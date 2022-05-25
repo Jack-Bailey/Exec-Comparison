@@ -6,25 +6,11 @@ Comparison of several different Roblox Executors
 
 Performance of each Scripting Environment, aswell as the features it contains
 
-| Name                                     | [SimpleBench](https://github.com/AstolfoBrew/SimpleBench) Score | Function Count                                               | UNC          |
-| ---------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ | ------------ |
-| [Script-Ware](https://script-ware.com/w) | [708.9573803463508](#sw-score)                                  | [180+](https://docs.script-ware.com/script-execution-engine) | ✅ (full)    |
-| [Fluxus](https://fluxteam.xyz/)          | [636.4562053459221](#flux-score)                                | No Documentation (not counting env manually lol)             | ✅ (partial) |
-| Synapse (too overated to get linked)     | [266.2899230358634](#syn-score)                                 | <135 (manually counted in docs)                              | ❌           |
-
-#### SimpleBench Score Links
-
-##### SW Score
-
-[708.9573803463508](https://github.com/AstolfoBrew/SimpleBench/blob/1adb3d0025cc985830f20df80425d8538d94d933/out/Roblox/Script-Ware/Yielding_LT2_25-05-2022_13-55.log#L4)
-
-##### Flux Score
-
-[636.4562053459221](https://github.com/AstolfoBrew/SimpleBench/blob/1adb3d0025cc985830f20df80425d8538d94d933/out/Roblox/Fluxus/Yielding_LT2_25-05-2022_14-26.log#L4)
-
-##### Syn Score
-
-[266.2899230358634](https://github.com/AstolfoBrew/SimpleBench/blob/1adb3d0025cc985830f20df80425d8538d94d933/out/Roblox/Synapse%20v2/Yielding_LT2_25-05-2022_14-20.log#L4)
+| Name                                     | [SimpleBench](https://github.com/AstolfoBrew/SimpleBench) Score                            | Function Count                                               | UNC          |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [Script-Ware](https://script-ware.com/w) | [708.9573803463508](https://yieldingexploiter.github.io/Exec-Comparison/score#script-ware) | [180+](https://docs.script-ware.com/script-execution-engine) | ✅ (full)    |
+| [Fluxus](https://fluxteam.xyz/)          | [636.4562053459221](https://yieldingexploiter.github.io/Exec-Comparison/score#fluxus)      | No Documentation (not counting env manually lol)             | ✅ (partial) |
+| Synapse (too overated to get linked)     | [266.2899230358634](https://yieldingexploiter.github.io/Exec-Comparison/score#shitnapse)   | <135 (manually counted in docs)                              | ❌           |
 
 ### Stability
 
