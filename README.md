@@ -29,14 +29,6 @@ During my time exploiting, here's how often each of the Executors crashed on me.
 
 I lost the benchmarks I did between SW and Synapse on Attach & Launch time, but for every one of them, sw won by a long shot, excluding the occasional fluke.
 
-### Update Timing
-
-| Executor                                 | Time (in hours; on average for regular rbx updates - Lower = Better) |
-| ---------------------------------------- | -------------------------------------------------------------------- |
-| [Script-Ware](https://script-ware.com/w) | <2 (almost always; sometimes a tiny bit more)                        |
-| [Fluxus](https://fluxteam.xyz/)          | >12 (in my experience)                                               |
-| Synapse                                  | ~12 (unless you're really lucky, it's gonna be aprox 12)             |
-
 ### Price
 
 | Executor                                 | Price (Lower = Better)         | Payment Methods (More = Better)                          |
